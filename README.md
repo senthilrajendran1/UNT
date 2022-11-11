@@ -4,6 +4,7 @@ CSCE 5310:METHODS IN EMPERICAL ANALYSIS
 
 Group 6 
 
+Team - 
 Senthil
 Bhavana
 Manasa
